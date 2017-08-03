@@ -1,4 +1,4 @@
-scihub.py
+scihub.py（这是我们下载论文的主力军）
 =========
 
 scihub.py is an unofficial API for sci-hub.cc. scihub.py can search for papers on Google Scholars and download papers from sci-hub.cc. It can be imported independently or used from the command-line.
